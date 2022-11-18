@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace DataEntity.Infrastructure
 {
-    internal class IRepository
+    public interface IRepository<T> where T : class
     {
+        T Add(T entity);
+        void Update(T entity);
+        T Delete(T entity);
+        List<T> GetAll();
+        T GetById(int id);
     }
 }

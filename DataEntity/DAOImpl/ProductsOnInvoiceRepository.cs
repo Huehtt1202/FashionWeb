@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DataEntity.DAL
+namespace DataEntity.DAOImpl
 {
-    public interface IProduct
+    internal class ProductsOnInvoiceRepository
     {
-        int Add();
     }
 }

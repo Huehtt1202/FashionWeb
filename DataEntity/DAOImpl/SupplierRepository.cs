@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DataEntity.Infrastructure
+namespace DataEntity.DAOImpl
 {
-    internal class IUnitOfWork
+    internal class SupplierRepository
     {
     }
 }

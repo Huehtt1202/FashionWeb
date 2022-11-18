@@ -119,8 +119,18 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Common\CommonProperties.cs" />
-    <Compile Include="DAL\IProduct.cs" />
-    <Compile Include="DAOImpl\ProductImpl.cs" />
+    <Compile Include="DAOImpl\AttributesRepository.cs" />
+    <Compile Include="DAOImpl\CategoryRepository.cs" />
+    <Compile Include="DAOImpl\CustomerRepository.cs" />
+    <Compile Include="DAOImpl\GoodsReceivedNoteRepository.cs" />
+    <Compile Include="DAOImpl\InVoiceRepository.cs" />
+    <Compile Include="DAOImpl\ProductRepository.cs" />
+    <Compile Include="DAOImpl\ProductsOnInvoiceRepository.cs" />
+    <Compile Include="DAOImpl\ProductsOnNoteRepository.cs" />
+    <Compile Include="DAOImpl\PropertyOfAttributesRepository.cs" />
+    <Compile Include="DAOImpl\StockRepository.cs" />
+    <Compile Include="DAOImpl\SupplierRepository.cs" />
+    <Compile Include="DAOImpl\UserRepository.cs" />
     <Compile Include="DAO\Stock.cs" />
     <Compile Include="DAO\Attributes.cs" />
     <Compile Include="DAO\Category.cs" />
@@ -134,6 +144,8 @@
     <Compile Include="DAO\PropertyOfAttributes.cs" />
     <Compile Include="DAO\Supplier.cs" />
     <Compile Include="FashionWebDBContext.cs" />
+    <Compile Include="Infrastructure\IRepository.cs" />
+    <Compile Include="Infrastructure\Repository.cs" />
     <Compile Include="Migrations\202211061430026_InitDatabase.cs" />
     <Compile Include="Migrations\202211061430026_InitDatabase.designer.cs">
       <DependentUpon>202211061430026_InitDatabase.cs</DependentUpon>

@@ -55,3 +55,11 @@ F:\DA Cuối khóa\FashionWeb\DataEntity\bin\Debug\EntityFramework.SqlServer.xml
 F:\DA Cuối khóa\FashionWeb\DataEntity\obj\Debug\DataEntity.Migrations.InitDatabase.resources
 F:\DA Cuối khóa\FashionWeb\DataEntity\obj\Debug\DataEntity.csproj.GenerateResource.cache
 F:\DA Cuối khóa\FashionWeb\DataEntity\obj\Debug\DataEntity.Migrations.Delete_CateegeryId.resources
+C:\Users\ADMIN\OneDrive\Documents\FashionWeb\DataEntity\obj\Debug\DataEntity.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Documents\FashionWeb\DataEntity\obj\Debug\DataEntity.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive\Documents\FashionWeb\DataEntity\obj\Debug\DataEntity.Migrations.InitDatabase.resources
+C:\Users\ADMIN\OneDrive\Documents\FashionWeb\DataEntity\obj\Debug\DataEntity.Migrations.Delete_CateegeryId.resources
+C:\Users\ADMIN\OneDrive\Documents\FashionWeb\DataEntity\obj\Debug\DataEntity.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Documents\FashionWeb\DataEntity\obj\Debug\DataEntity.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Documents\FashionWeb\DataEntity\obj\Debug\DataEntity.exe
+C:\Users\ADMIN\OneDrive\Documents\FashionWeb\DataEntity\obj\Debug\DataEntity.pdb
